@@ -1,4 +1,1 @@
-slimphpworkshop
-===============
-
-Taller de Slim PHP - Comunidad PHP Puebla
+# Taller de Slim PHP - Comunidad PHP Puebla
